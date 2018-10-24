@@ -2,8 +2,8 @@
 
 rem # ------------------------------------------------------------#
 rem #        BASH SCRIPT: RTMP Download v.1                       #
-rem # 				                  by github.com/thisislola	        #
-rem # 								                                            #
+rem #                     by github.com/thisislola                #
+rem #                                                             #
 rem #      How To:							                                  #
 rem #        1. Replace the stream variable with the rtmp		      #
 rem # 	        link to download (remember the quotes!).		      #
