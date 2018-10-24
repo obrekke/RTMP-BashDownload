@@ -1,7 +1,7 @@
 @echo off
 
 rem # ------------------------------------------------------------#
-rem #   	      BASH SCRIPT: RTMP Download v.1		                #
+rem #        BASH SCRIPT: RTMP Download v.1                       #
 rem # 				                  by github.com/thisislola	        #
 rem # 								                                            #
 rem #      How To:							                                  #
