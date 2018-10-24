@@ -11,6 +11,11 @@ _It is a work in progress._
 
 Last Update: October 2018 
 
+## Video Guides: 
+
+[RTMP Download Batch Script - Running it from the command line](https://www.youtube.com/watch?v=duqY7WbceQw&feature=youtu.be)
+[RTMP Download Batch Script - Running it with double-click](https://www.youtube.com/watch?v=J2bSJUdwtlA&feature=youtu.be)
+
 **To Do:**
 
 1. Hide the GUI.
