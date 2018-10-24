@@ -3,13 +3,6 @@
 rem # ------------------------------------------------------------#
 rem #        BASH SCRIPT: RTMP Download v.1                       #
 rem #                     by github.com/thisislola                #
-rem #                                                             #
-rem #      How To:                                                #
-rem #        1. Replace the stream variable with the rtmp         #
-rem # 	        link to download (remember the quotes!).          #
-rem #        2. Replace the output variable with the path         #
-rem #           to your preferred location and a file name.       #
-rem #        3. Keep the original .mp4 extension for both files.  #
 rem # ------------------------------------------------------------#
 
 
